@@ -13,7 +13,7 @@ namespace Metotlar
 
             string[] meyveler = new string[] { };   //Meyveler Dizisi tanımladık, Arrays. Diziler çoğul isimlendirilir.
 
-            Urun urun1 = new Urun();
+            Urun urun1 = new Urun();       //Bir Class tanımlamak için bunu yapmalıyız.Buna Class ın örneği denir.
             urun1.Adi = "Elma";
             urun1.Fiyati = 15;
             urun1.Aciklama = "Amasya Elması";
@@ -25,7 +25,7 @@ namespace Metotlar
 
             Urun[] urunler = new Urun[] { urun1, urun2 };
 
-            foreach (Urun urun in urunler) //Urun=veri tip, urun=      urunler=dizi
+            foreach (Urun urun in urunler) //Urun=veri tipi,Class -- urun=Alias, Takma isim   --   urunler=dizi
             {
                 Console.WriteLine(urun.Adi);
                 Console.WriteLine(urun.Fiyati);
@@ -34,7 +34,7 @@ namespace Metotlar
             }
 
             Console.WriteLine("-----------------------------Metotlar---------------------------");
-            //instance - örneği // o class ı kullanmak için örneğini oluşturduk.
+            //instance örneği = o class ı kullanmak için örneğini oluşturduk.
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1); //Metot-Fonksiyon çağırma
             sepetManager.Ekle(urun2);
