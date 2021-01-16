@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Metotlar
-{
+{                       //C#, java gibi programlama dillerinde her şey Class lardan oluşur.
     class Program      //Temel yapıların çoğu classların içerisinde olur. (O nesneyi(bir ürünü) tanımlayan birden fazla özellik barındıran yapıdır.
                             //Class larda pascal case uygulanır. İlk harf büyük :). Class lar bir veri tipidir aslında(int, string vb. gibi)
     {
