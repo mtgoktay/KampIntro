@@ -7,7 +7,7 @@ namespace DegerVeReferansTipler
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!"); //cw 2 tab ile hızlı oluşturabilirsin.
-            Console.WriteLine("Hello World!");
+            
 
             int sayi1 = 10;
             int sayi2 = 30;
