@@ -21,6 +21,6 @@ namespace DegerVeReferansTipler
             sayilar2[0] = 999;
             //sayilar1[] ? 999
         }
-    }              //****Sayısal veri tipleri(İnt,Bool,Float,Double vb..) = +Değer tip,  **** Array, Class, İnterface = +Referans Tip
+    }              //****Sayısal veri tipleri(İnt,Bool,Float,Double vb..) = +Değer tip,  **** String, Array, Class, İnterface = +Referans Tip
                    // * Bellekte Steak ve Heap alanı vardır. +Değer Tip = *Steak, +Referans Tip = *Heap alanında saklanır.
 }
