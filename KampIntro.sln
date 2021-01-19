@@ -15,11 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{771C305C-6C38-4165-A848-E8322295C9DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2gun-6odev", "Odevler\2gun-6odev.csproj", "{D7FE01A6-409D-4D56-B4AB-1AB0D68BFFCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2gun-6odev", "Odevler\2gun-6odev.csproj", "{D7FE01A6-409D-4D56-B4AB-1AB0D68BFFCF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odev", "Odev", "{7C1795A2-D17B-40CC-88F2-78C0D9C93F29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{B9934C60-153C-4E71-BB79-A82CDC6CC963}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{B9934C60-153C-4E71-BB79-A82CDC6CC963}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
