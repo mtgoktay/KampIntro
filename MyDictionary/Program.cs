@@ -12,7 +12,7 @@ namespace MyDictionary
             myDictionary.Add(2, "Engin Demiroğ");
             myDictionary.Add(3, "Ali Sunal");
 
-            myDictionary.GetAll();
+            myDictionary.GetAll();   
         }
     }
 }

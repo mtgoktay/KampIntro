@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyDictionary
+namespace MyDictionary   
 {
     class MyDictionary<Key,Value>
     {

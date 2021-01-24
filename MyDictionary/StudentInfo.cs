@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MyDictionary
 {
-    class StudentInfo
+    class StudentInfo   
     {
         public int Number { get; set; }
         public string OgrenciAd { get; set; }
