@@ -39,7 +39,7 @@ namespace MyDictionary
 
         public void GetAll()
         {
-            for (int i = 0; i < numbers.Length; i++)
+            for (int i = 0; i < numbers.Length; i++)     
             {
                 Console.WriteLine(numbers[i] + " " + " Numaralı " + names[i] + " Eklendi");
 
